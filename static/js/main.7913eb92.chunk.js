@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-component"]=this["webpackJsonpreact-component"]||[]).push([[0],{4:function(e,t,n){"use strict";n.r(t);n(1);var c=n(3),r=n.n(c),o=n(0),i=function(){return Object(o.jsx)("div",{style:{backgroundColor:"lightblue",display:"grid",minHeight:"100vh",placeContent:"center"},children:Object(o.jsx)("h1",{children:" Hello React "})})};r.a.render(Object(o.jsx)(i,{}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.7913eb92.chunk.js.map
